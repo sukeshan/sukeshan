@@ -1,5 +1,4 @@
-<img src="[https://raw.githubusercontent.com/sukeshan/sukeshan/main/intro.gif](https://rishavanand.github.io/static/images/greetings.gif)" alt="👋 Hi there! I'm sukesh" title="👋 Hi there! I'm sukesh"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FF3754&background=15151500&width=449&height=70&lines=Hey+there+!+I'm+Sukesh+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <h3 align="center">An enthusiastic, adaptive and fast learning person with a broad interest in AI..</h3>
 
@@ -38,3 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukeshan&show_icons=true&locale=en" alt="sukeshan" /></p>
 
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
