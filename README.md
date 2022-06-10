@@ -1,40 +1,125 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FF3754&background=15151500&width=449&height=70&lines=Hey+there+!+I'm+Sukesh+%F0%9F%A4%97)](https://git.io/typing-svg)
 
-<h3 align="center">An enthusiastic, adaptive and fast learning person with a broad interest in AI..</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukeshan&label=Profile%20views&color=0e75b6&style=flat" alt="sukeshan" /> </p>
+# *<div align="center">An enthusiastic, adaptive and fast learning person 👨‍💻 with a broad interest in Machine Learning 🤖</div>*  
+  
 
-- 🔭 I’m currently working on **RecS(Recommendation System)**
+- ### *🔭 I’m currently working on Food Recipe Search Engine*  
+  
 
-- 🌱 I’m currently learning **Natural Languge Processing ,Graph Neural Network**
+- ### *🌱 I’m currently learning NLP and GNN*  
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/sukeshan](https://github.com/sukeshan)
+- ### *❓ Ask me about anything related to CV ,NLP and GNN*  
+  
 
-- 💬 Ask me about **Graph Neural Network,Computer Vision ,Natural Languge Processing**
+- ### *⚡ Fun fact: I use raspberry Pi for coding👨‍💻*  
+  
 
-- 📫 How to reach me **sukeshram5@gmail.com**
+- ### *📄 Know about my experiences [resume](https://drive.google.com/file/d/12InBOlxciuNygbQz5aA5WSL6PPJ294mb/view?usp=sharing)*  
+  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12InBOlxciuNygbQz5aA5WSL6PPJ294mb/view?usp=sharing](https://drive.google.com/file/d/12InBOlxciuNygbQz5aA5WSL6PPJ294mb/view?usp=sharing)
+- ### 📫 How to reach me  **sukeshram5@gmail.com**  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sukeshan-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukeshan-r" height="30" width="40" /></a>
-<a href="https://kaggle.com/sukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sukesh" height="30" width="40" /></a>
-<a href="https://fb.com/sukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sukesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sukesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sukesh" height="30" width="40" /></a>
-<a href="https://discord.gg/Sukesh#5748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sukesh#5748" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Sukesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sukesh" /></a></p><br><br>
+<br/>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukeshan&show_icons=true&locale=en&layout=compact" alt="sukeshan" /></p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukeshan&show_icons=true&locale=en" alt="sukeshan" /></p>
 
+
+### Language  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Machine Learning Framework  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Others  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/sukeshan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sukesh ram" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/Sukesh" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sukeshan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sukeshan&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
