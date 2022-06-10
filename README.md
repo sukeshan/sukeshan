@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sukeshan/sukeshan/main/intro.gif" alt="👋 Hi there! I'm sukesh" title="👋 Hi there! I'm sukesh"/>
+<img src="[https://raw.githubusercontent.com/sukeshan/sukeshan/main/intro.gif](https://rishavanand.github.io/static/images/greetings.gif)" alt="👋 Hi there! I'm sukesh" title="👋 Hi there! I'm sukesh"/>
 
 
 <h3 align="center">An enthusiastic, adaptive and fast learning person with a broad interest in AI..</h3>
