@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm sukesh" title="👋 Hi there! I'm sukesh"/>
+
+
 <h3 align="center">An enthusiastic, adaptive and fast learning person with a broad interest in AI..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukeshan&label=Profile%20views&color=0e75b6&style=flat" alt="sukeshan" /> </p>
