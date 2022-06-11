@@ -4,7 +4,7 @@
 </div>  
   
 
-# *<div align="center">An enthusiastic, adaptive and fast learning person 👨‍💻 with a broad interest in Machine Learning 🤖</div>*  
+# *<div align="center">An enthusiastic, adaptive and fast learning person with a broad interest in Machine Learning </div>*  
   
 
 - ### *🔭 I’m currently working on Food Recipe Search Engine*  
@@ -55,7 +55,7 @@
 
 
 
-### Others  
+### Embedding System
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
@@ -94,13 +94,6 @@
 
 
 
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sukeshan&&style=flat-square" align="center" />
 </div>  
@@ -118,4 +111,9 @@
 <br />
 
 ----
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
