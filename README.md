@@ -16,7 +16,7 @@
 - ### *❓ Ask me about anything related to CV ,NLP and GNN*  
   
 
-- ### *⚡ Fun fact: I use raspberry Pi for coding👨‍💻*  
+- ### ⚡ Fun fact: Sometimes I use raspberry Pi for coding🤗
   
 
 - ### *📄 Know about my experiences [resume](https://drive.google.com/file/d/12InBOlxciuNygbQz5aA5WSL6PPJ294mb/view?usp=sharing)*  
@@ -93,10 +93,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
 
 <br/>  
 
@@ -112,7 +109,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/sukeshan" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
@@ -121,5 +118,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
