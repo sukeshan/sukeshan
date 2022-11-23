@@ -7,7 +7,7 @@
 # *<div align="center">An enthusiastic, adaptive and fast learning person with a broad interest in Machine Learning </div>*  
   
 
-- ### *🔭 I’m currently working on Drug Extraction from Tablet Image*  
+- ### *🔭 I’m currently working on Drug Extraction from the Tablet Images*  
   
 
 - ### *🌱 I’m currently learning NLP and GNN*  
