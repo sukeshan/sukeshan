@@ -7,7 +7,7 @@
 # *<div align="center">An enthusiastic, adaptive and fast learning person with a broad interest in Machine Learning </div>*  
   
 
-- ### *🔭 I’m currently working on Food Recipe Search Engine*  
+- ### *🔭 I’m currently working on Drug Extraction from Tablet Image*  
   
 
 - ### *🌱 I’m currently learning NLP and GNN*  
@@ -19,7 +19,7 @@
 - ### ⚡ Fun fact: Sometimes I use raspberry Pi for coding🤗
   
 
-- ### *📄 Know about my experiences [resume](https://drive.google.com/file/d/12InBOlxciuNygbQz5aA5WSL6PPJ294mb/view?usp=sharing)*  
+- ### *📄 Know about my experiences [resume](https://drive.google.com/file/d/1vf8HQ8REkZ1mppq2cWApsqqf9fjCknSw/view?usp=share_link)*  
   
 
 - ### 📫 How to reach me  **sukeshram5@gmail.com**  
