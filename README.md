@@ -7,7 +7,7 @@
 # *<div align="center">An enthusiastic, adaptive and fast learning person with a broad interest in Machine Learning </div>*  
   
 
-- ### *🔭 I’m currently working on Drug Extraction from the Tablet Images*  
+- ### *🔭 I’m currently working on Information Extraction from various cards(Aadhar ,Pan ,Driving Licence ,ATM ,Voter)*  
   
 
 - ### *🌱 I’m currently learning NLP and GNN*  
