@@ -3,8 +3,8 @@
 <div align="center">
   
 # Sukesh  📺
-**Senior Machine Learning Engineer**  
-*Building Intelligent Systems @ [Senseloaf.ai](https://senseloaf.ai)*
+**Senior AI Research Engineer**  
+*Building Intelligent Systems @ [Shoppin'🍓](https://shoppin.app)*
 
 [![NLP Expert](https://img.shields.io/badge/NLP-Expert-8A2BE2?logo=openai)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![Generative AI](https://img.shields.io/badge/Generative_AI-Specialist-FF6F61)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
