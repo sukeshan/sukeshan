@@ -3,7 +3,7 @@
 <div align="center">
   
 # Sukesh  📺
-**Senior AI Engineer**  
+**Senior Research Engineer**  
 *Building Intelligent Systems @ [Shoppin'🍓](https://shoppin.app)*
 
 [![NLP Expert](https://img.shields.io/badge/NLP-Expert-8A2BE2?logo=openai)](https://en.wikipedia.org/wiki/Natural_language_processing)
