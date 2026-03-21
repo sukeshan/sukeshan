@@ -15,7 +15,7 @@
 ## 👨💻 About Me
 
 ```text
-AI Solutions Engineer with 2+ years specializing in production-grade machine learning systems.
+AI Solutions Engineer with 4+ years specializing in production-grade machine learning systems.
 Focus on delivering enterprise NLP solutions through:
 
 ✓ Scalable LLM Architectures      ✓ Optimized Model Inference
